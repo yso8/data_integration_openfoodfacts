@@ -39,7 +39,7 @@ Ce projet vise à créer une solution ETL en utilisant Apache Spark (PySpark) po
 
 ## Utilisation
 
-1. **Notebook ETL :** Utilisez le notebook `etl_process.ipynb` pour exécuter l'extraction, la transformation et le chargement des données en une seule séquence.
+1. **Notebook ETL :** Utilisez le notebook `files/etl_process.ipynb` pour exécuter l'extraction, la transformation et le chargement des données en une seule séquence.
 
 ## Contributions et Licence
 
